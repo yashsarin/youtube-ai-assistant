@@ -20,8 +20,6 @@ The system should behave like a personal AI research assistant for YouTube.
 
 3. Core User Flow
 Step 1 — User Sends YouTube Link
-User:
-https://youtube.com/watch?v=XXXXX
 Bot responds with:
 🎥 Video Title
 
