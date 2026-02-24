@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    container_name: youtube_ai_bot
+    restart: always
+    env_file:
+      - .env
